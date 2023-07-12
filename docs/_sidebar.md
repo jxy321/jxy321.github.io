@@ -14,6 +14,6 @@
    - 虚拟专用网络：
        - [构建企业级虚拟专用网络环境](/md/构建企业级虚拟专用网络环境.md)
        - [构建企业级虚拟专](/md/构建企业级虚拟专用网络环境.md)
-       - [部署PPTP VPN](/md/部署PPTP VPN.md)
-       - [虚拟专用网络部署SSL VPN——openvpn](/md/虚拟专用网络部署SSL VPN——openvpn.md)
+       - [部署PPTP VPN](/md/部署PPTP\ VPN.md)
+       - [虚拟专用网络部署SSL VPN——openvpn](/md/虚拟专用网络部署SSL\ VPN——openvpn.md)
    
